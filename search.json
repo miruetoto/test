@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "asdf.html",
+    "href": "asdf.html",
+    "title": "",
+    "section": "",
+    "text": "asdfasdf\n\nimport pandas as pd\npd.DataFrame({'A':[1,2,3],'B':[2,3,4],'C':[3,4,5]})\n\n\n\n\n\n  \n    \n      \n      A\n      B\n      C\n    \n  \n  \n    \n      0\n      1\n      2\n      3\n    \n    \n      1\n      2\n      3\n      4\n    \n    \n      2\n      3\n      4\n      5"
+  }
+]
